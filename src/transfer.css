@@ -8,7 +8,7 @@ body {
   place-items: center;
   font-family: var(--font-body);
   color: var(--color-text);
-  background: #d9dde3;
+  background: #9aa3b0;
 }
 
 .phone {
@@ -52,7 +52,7 @@ body {
 
 .screen {
   flex: 1;
-  padding: 0 var(--space-4);
+  padding: 0;
   display: flex;
   flex-direction: column;
   gap: var(--space-4);
@@ -115,7 +115,7 @@ body {
   flex: 1;
   border: 0;
   background: transparent;
-  font: 600 28px/1 var(--font-body);
+  font: 600 16px/1 var(--font-body);
   color: var(--color-text);
   outline: none;
 }
