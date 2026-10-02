@@ -1,0 +1,32 @@
+/* Design tokens. Change values here, not in component files. */
+:root {
+  /* Spacing, 4px base */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+
+  /* Colour roles */
+  --color-bg: #eef0f3;
+  --color-surface: #ffffff;
+  --color-border: #dfe3e8;
+  --color-text: #171a1f;
+  --color-text-muted: #5c6470;
+
+  --color-primary: #1358d6;        /* main actions: confirm, continue, send */
+  --color-primary-text: #ffffff;
+  --color-danger: #d92d20;         /* destructive actions only: delete, cancel payment */
+  --color-danger-text: #ffffff;
+  --color-neutral: #eef0f3;
+  --color-neutral-text: #171a1f;
+
+  /* Radius */
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-pill: 999px;
+
+  /* Type */
+  --font-body: "Avenir Next", "Segoe UI", system-ui, sans-serif;
+}
