@@ -115,7 +115,7 @@ body {
   flex: 1;
   border: 0;
   background: transparent;
-  font: 600 16px/1 var(--font-body);
+  font: 700 32px/1 var(--font-body);
   color: var(--color-text);
   outline: none;
 }
